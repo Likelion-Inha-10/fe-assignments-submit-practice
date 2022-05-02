@@ -8,7 +8,7 @@
 
 ## 1. 포크 (Fork)
 
-지금 보고 계시는 `fe-assignments-submit-practice` 라는 저장소는 `Likelion-Inha-10` 라는 Github 조직(Organization) 에 소속된 저장소가 아니에요. Fork를 사용하면 지금 보고 있는 저장소를 내 계정으로 **복사** 할 수 있어요.
+지금 보고 계시는 `fe-assignments-submit-practice` 라는 저장소는 `Likelion-Inha-10` 라는 Github 조직(Organization) 에 소속된 저장소입니다. Fork를 사용하면 지금 보고 있는 저장소를 내 계정으로 **복사** 할 수 있어요.
 
 ![](./images/1.png)
 
@@ -60,15 +60,7 @@ Push 는 내 컴퓨터 저장소(이하 로컬저장소)의 커밋된 변경이�
 
 ![](./images/6.png)
 
-Gitkraken의 상단에 Push 라는 버튼을 클릭하면, 아마 최초 1번은 아래와 같은 오류가 발생할 거예요.
-
-![](./images/7.png)
-
-Go to GitHub을 클릭해주세요.
-
-![](./images/8.png)
-
-이동된 Github 화면에서 위 그림과 같이 `Likelion-Inha-10` 저장소 우측의 Grant 버튼을 클릭합니다.
+Gitkraken의 상단에 Push 라는 버튼을 클릭하면 완료!
 
 ## 5. 풀 리퀘스트(PR: Pull Request)
 
